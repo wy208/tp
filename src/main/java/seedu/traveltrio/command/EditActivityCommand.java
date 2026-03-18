@@ -1,7 +1,7 @@
-package seedu.duke.command;
+package seedu.traveltrio.command;
 
-import seedu.duke.model.Activity;
-import seedu.duke.model.ActivityList;
+import seedu.traveltrio.model.Activity;
+import seedu.traveltrio.model.ActivityList;
 
 public class EditActivityCommand extends ActivityCommand{
     private final int index;

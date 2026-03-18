@@ -1,6 +1,6 @@
-package seedu.duke.command;
-import seedu.duke.model.Trip;
-import seedu.duke.model.TripList;
+package seedu.traveltrio.command;
+import seedu.traveltrio.model.Trip;
+import seedu.traveltrio.model.TripList;
 
 public class OpenTripCommand extends TripCommand {
     private final int index;

@@ -1,7 +1,7 @@
-package seedu.duke.command;
+package seedu.traveltrio.command;
 
-import seedu.duke.model.TripList;
-import seedu.duke.model.Trip;
+import seedu.traveltrio.model.TripList;
+import seedu.traveltrio.model.Trip;
 
 public class AddTripCommand extends TripCommand {
     private final String destination;

@@ -1,6 +1,6 @@
-package seedu.duke.command;
+package seedu.traveltrio.command;
 
-import seedu.duke.model.TripList;
+import seedu.traveltrio.model.TripList;
 
 public class ListTripCommand extends TripCommand {
 

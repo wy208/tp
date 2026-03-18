@@ -1,6 +1,6 @@
-package seedu.duke.command;
+package seedu.traveltrio.command;
 
-import seedu.duke.model.ActivityList;
+import seedu.traveltrio.model.ActivityList;
 
 public class ListActivityCommand extends ActivityCommand {
 

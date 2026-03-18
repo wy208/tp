@@ -1,8 +1,8 @@
-package seedu.duke.command;
+package seedu.traveltrio.command;
 
 import org.junit.jupiter.api.Test;
-import seedu.duke.model.Activity;
-import seedu.duke.model.ActivityList;
+import seedu.traveltrio.model.Activity;
+import seedu.traveltrio.model.ActivityList;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

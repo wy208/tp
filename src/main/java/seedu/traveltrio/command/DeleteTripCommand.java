@@ -1,7 +1,7 @@
-package seedu.duke.command;
+package seedu.traveltrio.command;
 
-import seedu.duke.model.Trip;
-import seedu.duke.model.TripList;
+import seedu.traveltrio.model.Trip;
+import seedu.traveltrio.model.TripList;
 
 public class DeleteTripCommand extends TripCommand {
     private final int index;
